@@ -1,6 +1,6 @@
 # Unity-Game - Outsider
 
-The main purpose of this project was to experiment with games in Unity, the Unity engine.
+The main purpose of this project was to experiment with games in Unity, the Unity engine and game level creation.
 This is my first attempt at making a 2d game in Unity.
 
 Features: 
