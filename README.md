@@ -12,7 +12,6 @@ Features:
   
   -Enemy: 
       - attack player
-          
       - chase after player
 
 The map is made by me, using the Unity tile palette.
