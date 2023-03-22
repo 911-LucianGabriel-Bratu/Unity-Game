@@ -2,6 +2,7 @@
 
 The main purpose of this project was to experiment with games in Unity, the Unity engine.
 This is my first attempt at making a 2d game in Unity.
+
 Features: 
   
   -Player movement
@@ -11,8 +12,10 @@ Features:
   -Player attack
   
   -Enemy: 
-      - attack player
-      - chase after player
+      
+   - attack player
+   
+   - chase after player
 
 The map is made by me, using the Unity tile palette.
 
